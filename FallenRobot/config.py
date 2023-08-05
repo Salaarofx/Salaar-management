@@ -16,13 +16,13 @@ class Config(object):
     # Telegraph link of the image which will be shown at start command.
     START_IMG = "https://graph.org/file/90d40e950f3d1b361fc1b.jpg"
 
-    SUPPORT_CHAT = "salaar_chatting_ofx"  # Your Telegram support group chat username where your users will go and bother you
+    SUPPORT_CHAT = "secret_faction"  # Your Telegram support group chat username where your users will go and bother you
 
     TOKEN = ""  # Get bot token from @BotFather on Telegram
 
     TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
 
-    OWNER_ID = 6327968713  # User id of your telegram account (Must be integer)
+    OWNER_ID = 6613428905  # User id of your telegram account (Must be integer)
 
     # Optional fields
     BL_CHATS = []  # List of groups that you want blacklisted.
